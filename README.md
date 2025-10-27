@@ -29,12 +29,6 @@ The goal of this project is to demonstrate how retail businesses can leverage da
 ⚙️ Project Workflow
 🛠️ How to Use This Project
 
-Clone the repository:
-
-git clone https://github.com/poojithamecharla/Consumer-Behavior-Analytics.git
-cd Consumer-Behavior-Analytics
-
-
 Open the Python Notebook:
 Customer_Behavior_Analysis.ipynb
 
@@ -87,8 +81,5 @@ Final-year B.Tech Data Analytics student passionate about leveraging data-driven
 
 🚀 Connect with Me
 
-💼 LinkedIn: Poojitha Mecharla
-
-📊 GitHub: poojithamecharla
-
-📧 Email: poojitha.mecharla@example.com
+💼 **LinkedIn:** [Poojitha Mecharla](https://www.linkedin.com/in/poojithamecharla/)  
+📧 **Email**: poojitha.mecharla@example.com
