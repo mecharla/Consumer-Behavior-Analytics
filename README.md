@@ -69,6 +69,13 @@ SQL: MySQL
 Power BI: Data visualization and KPI dashboards
 
 GitHub: Version control and project organization
+## 📊 Dashboard Preview  
+
+Here’s a preview of the Power BI dashboard built for this project:
+
+<p align="center">
+  <img src="https://github.com/mecharla/Consumer-Behavior-Analytics/blob/main/dashboard.jpg?raw=true" alt="Dashboard Preview" width="700"/>
+</p>
 
 📜 License
 
