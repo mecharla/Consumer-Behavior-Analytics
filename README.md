@@ -88,5 +88,5 @@ Final-year B.Tech Data Analytics student passionate about leveraging data-driven
 
 🚀 Connect with Me
 
-💼 **LinkedIn:** [Poojitha Mecharla](https://www.linkedin.com/in/poojithamecharla/)  
+💼 **LinkedIn:** [Poojitha Mecharla](https://www.linkedin.com/in/poojithamecharla)  
 📧 **Email**: poojitha.mecharla@example.com
